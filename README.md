@@ -7,7 +7,7 @@
 
 ## Results
 #### Question: How many Vine reviews and non-Vine reviews were there?
-#### **Answer: ** 
+#### **Answer:** 
 ![stacked_launch_outcomes]()
 
 
