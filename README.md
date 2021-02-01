@@ -6,8 +6,8 @@
 
 
 ## Results
-#### Question - How many Vine reviews and non-Vine reviews were there?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vine: 47, non-Vine: 8362** 
+### Question - How many Vine reviews and non-Vine reviews were there?
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vine: 47, non-Vine: 8362** 
 
 ![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
 
