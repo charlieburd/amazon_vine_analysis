@@ -12,13 +12,13 @@
 ![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
 
 
-#### Question: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-#### **Vine: 15, non-Vine: 4332** 
+### Question: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vine: 15, non-Vine: 4332** 
 ![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(29).png)
 
 
-#### Question: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-#### **Vine: 31.9%, non-Vine: 51.8%** 
+### Question: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vine: 31.9%, non-Vine: 51.8%** 
 ![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(30).png)
 
 
