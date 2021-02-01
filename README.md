@@ -6,18 +6,18 @@
 
 
 ## Results
-#### Question: How many Vine reviews and non-Vine reviews were there?
-#### **Answer:** 
+#### Question - How many Vine reviews and non-Vine reviews were there?
+#### **Vine: 47, non-Vine: 8362** 
 ![stacked_launch_outcomes]()
 
 
 #### Question: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-#### **Answer: ** 
+#### **Vine: 15, non-Vine: 4332** 
 ![stacked_launch_outcomes]()
 
 
 #### Question: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-#### **Answer: ** 
+#### **Vine: 31.9%, non-Vine: 51.8%** 
 ![stacked_launch_outcomes]()
 #### 
 
